@@ -7,6 +7,7 @@ editor: visual
 
 here is some code
 ```{r}
+#reading in packages
 library(tidyverse)
 ```
 
